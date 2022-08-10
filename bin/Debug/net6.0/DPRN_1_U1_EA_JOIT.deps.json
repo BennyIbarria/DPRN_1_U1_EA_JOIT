@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DPRN_1_U1_EA_JOIT/1.0.0": {
+        "runtime": {
+          "DPRN_1_U1_EA_JOIT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPRN_1_U1_EA_JOIT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

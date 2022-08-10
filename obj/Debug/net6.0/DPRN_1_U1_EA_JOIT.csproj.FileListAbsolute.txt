@@ -1,0 +1,30 @@
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.csproj.AssemblyReference.cache
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.AssemblyInfoInputs.cache
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.AssemblyInfo.cs
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.csproj.CoreCompileInputs.cache
+D:\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.exe
+D:\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.deps.json
+D:\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.runtimeconfig.json
+D:\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.dll
+D:\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\ref\DPRN_1_U1_EA_JOIT.dll
+D:\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.pdb
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.dll
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\ref\DPRN_1_U1_EA_JOIT.dll
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.pdb
+D:\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.genruntimeconfig.cache
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.exe
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.deps.json
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.runtimeconfig.json
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.dll
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\ref\DPRN_1_U1_EA_JOIT.dll
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\bin\Debug\net6.0\DPRN_1_U1_EA_JOIT.pdb
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.csproj.AssemblyReference.cache
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.AssemblyInfoInputs.cache
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.AssemblyInfo.cs
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.csproj.CoreCompileInputs.cache
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.dll
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\ref\DPRN_1_U1_EA_JOIT.dll
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.pdb
+D:\5to semestre\Programacion .Net I\DPRN_1_U1_EA_JOIT\obj\Debug\net6.0\DPRN_1_U1_EA_JOIT.genruntimeconfig.cache
